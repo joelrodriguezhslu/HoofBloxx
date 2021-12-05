@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.collapse-button {
+  display: block;
+  width: 100%;
+}
+
+.collapse-content.collapsed {
+  display: none;
+}
+
+.collapsed-content.expanded {
+  display: block;
+}
+
+th {
+  text-align: left;
+}
+td {
+  text-align: left;
+}
+
+div.hash {
+  max-width: 250px;
+	word-wrap: break-word;
+}

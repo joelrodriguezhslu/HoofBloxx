@@ -1,0 +1,8 @@
+{
+  "localhost_YourCollectibleAddress": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "ropsten_YourCollectibleAddress": "0x0b914cD3402b71258997753ed63528Da5E225269",
+  "localhost_YourHorsesAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "ropsten_YourHorsesAddress": "0x1FE11d343F66f3AbBcf6e78D46545d72ca981015",
+  "localhost_HoofBloxxAddress": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "ropsten_HoofBloxxAddress": "0x96d5fA5D977776daA622A870573A7307d12eB639"
+}
